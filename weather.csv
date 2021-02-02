@@ -1,0 +1,46 @@
+,Time,Temperature,COndition,Rain,Wind Speed
+0,3 pm,55°,SunnySunny,Rain0%,WindNNW 10 mph
+1,4 pm,54°,SunnySunny,Rain0%,WindNW 9 mph
+2,5 pm,51°,SunnySunny,Rain0%,WindNW 8 mph
+3,6 pm,48°,Clear NightClear,Rain1%,WindNW 7 mph
+4,7 pm,45°,Clear NightClear,Rain1%,WindNW 7 mph
+5,8 pm,44°,Clear NightClear,Rain1%,WindNNW 6 mph
+6,9 pm,43°,Clear NightClear,Rain2%,WindNNW 6 mph
+7,10 pm,41°,Clear NightClear,Rain2%,WindNNW 6 mph
+8,11 pm,40°,Clear NightClear,Rain3%,WindNNW 6 mph
+9,1 am,38°,Clear NightClear,Rain4%,WindN 5 mph
+10,2 am,37°,Clear NightClear,Rain4%,WindN 6 mph
+11,3 am,36°,Clear NightClear,Rain5%,WindN 6 mph
+12,4 am,35°,Clear NightClear,Rain5%,WindN 5 mph
+13,5 am,34°,Clear NightClear,Rain5%,WindN 5 mph
+14,6 am,33°,Clear NightClear,Rain6%,WindN 4 mph
+15,7 am,33°,SunnySunny,Rain5%,WindNNE 5 mph
+16,8 am,37°,SunnySunny,Rain3%,WindNNE 5 mph
+17,9 am,42°,SunnySunny,Rain1%,WindNNE 6 mph
+18,10 am,46°,SunnySunny,Rain0%,WindNNE 5 mph
+19,11 am,49°,SunnySunny,Rain0%,WindNNE 5 mph
+20,12 pm,52°,SunnySunny,Rain0%,WindNNE 5 mph
+21,1 pm,55°,SunnySunny,Rain0%,WindNNE 4 mph
+22,2 pm,57°,SunnySunny,Rain0%,WindNNE 4 mph
+23,3 pm,58°,SunnySunny,Rain0%,WindNNW 3 mph
+24,4 pm,57°,SunnySunny,Rain0%,WindWSW 3 mph
+25,5 pm,55°,SunnySunny,Rain0%,WindSSW 2 mph
+26,6 pm,50°,Clear NightClear,Rain1%,WindSSW 3 mph
+27,7 pm,48°,Clear NightClear,Rain2%,WindSW 2 mph
+28,8 pm,45°,Clear NightClear,Rain2%,WindSSW 2 mph
+29,9 pm,44°,Mostly Clear NightMostly Clear,Rain3%,WindSSW 2 mph
+30,10 pm,43°,Mostly Clear NightMostly Clear,Rain3%,WindSSW 2 mph
+31,11 pm,42°,Partly Cloudy NightPartly Cloudy,Rain4%,WindS 1 mph
+32,1 am,42°,Partly Cloudy NightPartly Cloudy,Rain4%,WindESE 2 mph
+33,2 am,41°,Mostly Clear NightMostly Clear,Rain5%,WindESE 2 mph
+34,3 am,41°,Partly Cloudy NightPartly Cloudy,Rain5%,WindE 3 mph
+35,4 am,41°,Partly Cloudy NightPartly Cloudy,Rain5%,WindESE 2 mph
+36,5 am,41°,Partly Cloudy NightPartly Cloudy,Rain5%,WindESE 3 mph
+37,6 am,42°,Partly Cloudy NightPartly Cloudy,Rain5%,WindESE 3 mph
+38,7 am,43°,Partly CloudyPartly Cloudy,Rain5%,WindESE 4 mph
+39,8 am,48°,Partly CloudyPartly Cloudy,Rain4%,WindESE 5 mph
+40,9 am,55°,Mostly CloudyMostly Cloudy,Rain3%,WindSE 7 mph
+41,10 am,59°,Mostly CloudyMostly Cloudy,Rain2%,WindSE 9 mph
+42,11 am,63°,Mostly CloudyMostly Cloudy,Rain2%,WindSSE 12 mph
+43,12 pm,64°,Mostly CloudyMostly Cloudy,Rain4%,WindSSE 13 mph
+44,1 pm,66°,Mostly CloudyMostly Cloudy,Rain4%,WindSSE 14 mph
